@@ -1,0 +1,7 @@
+system variable (environment variable)
+
+if you want to access of .env variable 
+and your are facing some issue then 
+look how you created your app and then go to thier web env documt
+ 
+home directory means = readme or package.json
